@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: eventos-api-db
+    restart: always
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=rocheda
+      - POSTGRES_DB=eventosdb
+    ports:
+      - "5433:5432" 
+    volumes:
+      - eventos_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "admin", "-d", "eventosdb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  api:
+    container_name: eventos-api-service
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080" 
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=eventosdb;Username=admin;Password=rocheda
+      - ASPNETCORE_URLS=http://+:8080
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  eventos_postgres_data:

@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\EventosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\dtos\\eventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\dtos\\eventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\dtos\\eventocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\dtos\\eventocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\dtos\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\dtos\\inscricaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\dtos\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\repositories\\implementations\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\repositories\\implementations\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\eventosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\eventosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\models\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\models\\inscricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\controllers\\inscricoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\controllers\\inscricoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\repositories\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\repositories\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\repositories\\interfaces\\iinscricaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\repositories\\interfaces\\iinscricaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\repositories\\implementations\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\repositories\\implementations\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\repositories\\interfaces\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\repositories\\interfaces\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|c:\\dev\\eventosapi\\eventosapi\\repositories\\implementations\\inscricaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E14097-0BC2-48A2-B2DF-8F8AD7013443}|EventosApi\\EventosApi.csproj|solutionrelative:eventosapi\\repositories\\implementations\\inscricaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\EventoCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "EventosApi\\DTOs\\EventoCreateUpdateDto.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\EventoCreateUpdateDto.cs",
+              "RelativeToolTip": "EventosApi\\DTOs\\EventoCreateUpdateDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:15:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagamentoDto.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\PagamentoDto.cs",
+              "RelativeDocumentMoniker": "EventosApi\\DTOs\\PagamentoDto.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\PagamentoDto.cs",
+              "RelativeToolTip": "EventosApi\\DTOs\\PagamentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:15:16.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EventosApi\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "EventosApi\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:15:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoDto.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\EventoDto.cs",
+              "RelativeDocumentMoniker": "EventosApi\\DTOs\\EventoDto.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\EventoDto.cs",
+              "RelativeToolTip": "EventosApi\\DTOs\\EventoDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:13:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "EventosApi\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T15:01:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventosApi.http",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\EventosApi.http",
+              "RelativeDocumentMoniker": "EventosApi\\EventosApi.http",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\EventosApi.http",
+              "RelativeToolTip": "EventosApi\\EventosApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-27T14:29:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventosApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:41:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Program.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Program.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Program.cs",
+              "RelativeToolTip": "EventosApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:20:40.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InscricaoDto.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\InscricaoDto.cs",
+              "RelativeDocumentMoniker": "EventosApi\\DTOs\\InscricaoDto.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\DTOs\\InscricaoDto.cs",
+              "RelativeToolTip": "EventosApi\\DTOs\\InscricaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:41:26.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inscricao.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Models\\Inscricao.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Models\\Inscricao.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Models\\Inscricao.cs",
+              "RelativeToolTip": "EventosApi\\Models\\Inscricao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:40:28.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Implementations\\EventoRepository.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Repositories\\Implementations\\EventoRepository.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Implementations\\EventoRepository.cs",
+              "RelativeToolTip": "EventosApi\\Repositories\\Implementations\\EventoRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:39:58.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Models\\Evento.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Models\\Evento.cs",
+              "RelativeToolTip": "EventosApi\\Models\\Evento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:37:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "EventosApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:35:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EventosApi\\appsettings.json",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\appsettings.json",
+              "RelativeToolTip": "EventosApi\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T03:26:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Dockerfile",
+              "RelativeDocumentMoniker": "EventosApi\\Dockerfile",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Dockerfile",
+              "RelativeToolTip": "EventosApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-20T03:25:53.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\.dockerignore",
+              "RelativeDocumentMoniker": "EventosApi\\.dockerignore",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\.dockerignore",
+              "RelativeToolTip": "EventosApi\\.dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-20T03:25:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InscricoesController.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\InscricoesController.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Controllers\\InscricoesController.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\InscricoesController.cs",
+              "RelativeToolTip": "EventosApi\\Controllers\\InscricoesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:36:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "EventosApi\\docker-compose.yml",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\docker-compose.yml",
+              "RelativeToolTip": "EventosApi\\docker-compose.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-20T03:26:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEventoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Interfaces\\IEventoRepository.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Repositories\\Interfaces\\IEventoRepository.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Interfaces\\IEventoRepository.cs",
+              "RelativeToolTip": "EventosApi\\Repositories\\Interfaces\\IEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:39:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IInscricaoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Interfaces\\IInscricaoRepository.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Repositories\\Interfaces\\IInscricaoRepository.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Interfaces\\IInscricaoRepository.cs",
+              "RelativeToolTip": "EventosApi\\Repositories\\Interfaces\\IInscricaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:39:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPagamentoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Interfaces\\IPagamentoRepository.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Repositories\\Interfaces\\IPagamentoRepository.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Interfaces\\IPagamentoRepository.cs",
+              "RelativeToolTip": "EventosApi\\Repositories\\Interfaces\\IPagamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:39:13.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PagamentoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Implementations\\PagamentoRepository.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Repositories\\Implementations\\PagamentoRepository.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Implementations\\PagamentoRepository.cs",
+              "RelativeToolTip": "EventosApi\\Repositories\\Implementations\\PagamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:37:47.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagamentosController.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\PagamentosController.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Controllers\\PagamentosController.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Controllers\\PagamentosController.cs",
+              "RelativeToolTip": "EventosApi\\Controllers\\PagamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:37:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InscricaoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Implementations\\InscricaoRepository.cs",
+              "RelativeDocumentMoniker": "EventosApi\\Repositories\\Implementations\\InscricaoRepository.cs",
+              "ToolTip": "C:\\Dev\\EventosApi\\EventosApi\\Repositories\\Implementations\\InscricaoRepository.cs",
+              "RelativeToolTip": "EventosApi\\Repositories\\Implementations\\InscricaoRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:36:44.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
