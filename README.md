@@ -27,7 +27,7 @@ Este projeto é uma aplicação web para **criação e inscrição em eventos**,
 ![Tela de Cadastro](./Register.png)
 
 ### 🎉 Tela de Criação de Evento
-![Tela de Criação de Evento](./CriaçâoEvento.png)
+![Tela de Criação de Evento](./CriaçãoEventos.png)
 
 ### 📃 Tela de Lista de Eventos
 ![Tela de Lista de Eventos](./ListagemEventos.png)
@@ -58,5 +58,15 @@ Este projeto é uma aplicação web para **criação e inscrição em eventos**,
 ## 🧑‍💻 Como Rodar o Projeto
 
 ### 🔹 1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+### 🔹 2. Rodar o back com o docker
+'''bash
+- cd back/EventosApi/EventosApi
+- docker compose up --build
+### 🔹 2. Rodar o front 
+'''bash
+- cd front/eventos
+- npm install
+- npm run deploy
+
+A API estará acessível em: http://localhost:8080
+Swagger disponível em: http://localhost:8080/swagger
