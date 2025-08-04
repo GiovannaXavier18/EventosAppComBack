@@ -27,13 +27,13 @@ Este projeto é uma aplicação web para **criação e inscrição em eventos**,
 ![Tela de Cadastro](./Register.png)
 
 ### 🎉 Tela de Criação de Evento
-![Tela de Criação de Evento](./CriaçaoEvento.png)
+![Tela de Criação de Evento](./CriaçâoEvento.png)
 
 ### 📃 Tela de Lista de Eventos
-![Tela de Lista de Eventos](./ListaEventos.png)
+![Tela de Lista de Eventos](./ListagemEventos.png)
 
 ### 📥 Tela de Inscrição em Evento
-![Tela de Inscrição em Evento](./InscricaoEvento.png)
+![Tela de Inscrição em Evento](./InscricaoEventos.png)
 
 ### 💳 Tela de Pagamento
 ![Tela de Pagamento](./Pagamento.png)
@@ -47,7 +47,7 @@ Este projeto é uma aplicação web para **criação e inscrição em eventos**,
 > **Observação:** Usuário normal: Giovanna | Usuário organizador: Humberto
 
 ### 🐳 Docker rodando
-![Docker rodando](./DetalhesEvento.png)
+![Docker rodando](./docker.png)
 
 ### 📚 Swagger da API
 ![Swagger 1](./Swagger1.png)  
